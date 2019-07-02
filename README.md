@@ -1,2 +1,2 @@
-# shellsripts
+# MultiSiteFramer
 linux shell scripts
