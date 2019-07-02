@@ -1,5 +1,5 @@
 #!/bin/sh
-# BINDtoDir
+# bindiri.sh - scorpiorooster
 # REQUEST BIND TXT FILE
 while true; do
 printf "\n\n\t";read -p "Enter BIND .TXT file :  " BINDFILE; printf "\n\n"
